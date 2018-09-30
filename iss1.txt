@@ -1,2 +1,2 @@
 This is a new file called "iss1.txt"
-And edit this file at conflict1 branch
+And edit this file at conflict1,2 branch
